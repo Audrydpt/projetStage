@@ -1,0 +1,29 @@
+svn+svn://zaretti:zaretti@192.168.20.7/MVision2/trunk/MvApplications/MvUtils/acic/
+sqlalchemy~=2.0.35
+sqlalchemy-timescaledb~=0.4.1
+pgvector~=0.3.5
+psycopg2-binary~=2.9.9
+asyncpg~=0.30.0
+alembic~=1.13.3
+uvicorn~=0.31.1
+fastapi~=0.115.0
+python-dotenv~=1.0.1
+apscheduler~=3.11.0
+opencv-python-headless==4.11.0.86
+av~=14.2.0
+aiohttp~=3.11.13
+gunicorn~=23.0.0  # easy multi-worker
+hypercorn~=0.17.3 # http2
+celery~=5.4.0
+redis~=5.2.1
+aioredis~=2.0.1
+redis[hiredis]
+python-dateutil~=2.9.0
+aiostream~=0.6.4
+pysmb~=1.2.11
+zeroconf~=0.146.3
+httpx~=0.28.1
+httpx-ntlm~=1.4.0
+Pillow~=11.2.1
+python-multipart~=0.0.20
+tqdm~=4.66.4
